@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/brand/valeuruler-logo-horizontal-on-dark.svg" />
-  <img src="docs/brand/valeuruler-logo-horizontal.svg" alt="valeuruler by CNC Kitchen" width="420" />
+  <source media="(prefers-color-scheme: dark)" srcset="docs/brand/scanruler-logo-horizontal-on-dark.svg" />
+  <img src="docs/brand/scanruler-logo-horizontal.svg" alt="valeuruler by CNC Kitchen" width="420" />
 </picture>
 
 # ValeuRuler by alcarazolabs - A fork from of CNCKitchen.
