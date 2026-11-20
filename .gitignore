@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.wrangler/
+*.local
+.DS_Store
+
+# Local test scan files
+/*.stl
+/*.ply
+/*.obj
+
+# Generated e2e screenshots
+/e2e-*.png
+/e2e-out/
+
+# The app built for Node, headless (npm run build:engine)
+/dist-engine/
