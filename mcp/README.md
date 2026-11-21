@@ -1,6 +1,6 @@
 # valueruler-mcp
 
-* Warning: This is a fork of the 'scanruler-mcp' by cnckitchen and has some changes.
+* Warning: This is a fork of the 'scanruler-mcp v.0.6.4' by cnckitchen and has some changes.
 
 Drive [ValeuRuler](https://3vrobotics.com/), the browser tool for measuring 3D
 scans, from an AI agent. This is a [Model Context Protocol](https://modelcontextprotocol.io)
@@ -56,7 +56,7 @@ tool_timeout_sec = 300
 ```json
 {
   "mcpServers": {
-    "scanruler": {
+    "valeuruler": {
       "command": "npx",
       "args": ["-y", "valeuruler-mcp@latest", "--out", "/Users/you/Documents/ScanRuler"]
     }
@@ -77,7 +77,7 @@ tab connects to it, and the other sends its calls through that one — see
 ```json
 {
   "mcpServers": {
-    "scanruler": {
+    "valeuruler": {
       "command": "npx",
       "args": ["-y", "valeuruler-mcp@latest"]
     }

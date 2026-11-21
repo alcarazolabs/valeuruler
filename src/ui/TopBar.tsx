@@ -231,7 +231,7 @@ export function TopBar({
           layouts that drop the caption: a bug report needs the number, and
           the imprint carries it too. */}
       <div className="brand" title={`ScanRuler v${APP_VERSION}`}>
-        <b>ScanRuler</b>
+        <b>ValeuRuler/ScanRuler</b>
         <span>
           CNC Kitchen · 3D scan analysis ·{' '}
           <i className="ver" data-test="app-version">
